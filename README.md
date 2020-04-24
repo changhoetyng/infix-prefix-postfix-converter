@@ -27,9 +27,9 @@
 ---
 #### Test
 ##### Error Handling
-![error handling 1](test1.jpg)
+![error handling 1](https://github.com/changhoetyng/infix-prefix-postfix-converter/blob/master/test1.JPG?raw=true)
 
-![wrror handling 2](test2.jpg)
+![error handling 2](test2.jpg)
 
 
 It will return error if the expressions is invalid and ask if the user wish to input again.
