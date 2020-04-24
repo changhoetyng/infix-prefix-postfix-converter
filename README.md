@@ -29,7 +29,7 @@
 ##### Error Handling
 ![error handling 1](https://github.com/changhoetyng/infix-prefix-postfix-converter/blob/master/test1.JPG?raw=true)
 
-![error handling 2](test2.jpg)
+![error handling 2](https://github.com/changhoetyng/infix-prefix-postfix-converter/blob/master/test2.JPG?raw=true)
 
 
 It will return error if the expressions is invalid and ask if the user wish to input again.
@@ -37,12 +37,12 @@ It will return error if the expressions is invalid and ask if the user wish to i
 
 #####  Conversion
 
-![conversion](test3.jpg)
+![conversion](https://github.com/changhoetyng/infix-prefix-postfix-converter/blob/master/test3.JPG?raw=true)
 
 After inserting a valid expression, it will determine the type of the expression and ask user about the avaliable convert type. After conversion, the program will ask if the user wish to input again.
 
 ##### File Output
 
-![file](test4.jpg)
+![file](https://github.com/changhoetyng/infix-prefix-postfix-converter/blob/master/test4.JPG?raw=true)
 
 After user exit the program, the output of the program is printed on a file named _out.txt_
